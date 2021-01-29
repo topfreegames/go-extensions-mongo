@@ -1,0 +1,1 @@
+Wrapper for the [mgo lib](github.com/globalsign/mgo). Includes tracing.
